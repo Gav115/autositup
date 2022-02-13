@@ -1,0 +1,3 @@
+While wait() do
+game:GetService("ReplicatedStorage").Remotes.SitUp:FireServer()
+end
